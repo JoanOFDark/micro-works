@@ -1,2 +1,2 @@
 # micro-Resume-from-macro-Dev
-maybe someday some text will be here...
+precode for synonyms programm
