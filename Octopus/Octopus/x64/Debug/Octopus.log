@@ -1,0 +1,3 @@
+﻿  Octopus.cpp
+C:\Users\ivan3\source\repos\micro-Prakticum\micro-Prakticum\Octopus\Octopus\octopus.h(62,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Octopus.vcxproj -> C:\Users\ivan3\source\repos\micro-Prakticum\micro-Prakticum\Octopus\x64\Debug\Octopus.exe
