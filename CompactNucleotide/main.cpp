@@ -41,7 +41,7 @@ CompactNucleotide Compress(const Nucleotide& n) {
 
 Nucleotide Decompress(const CompactNucleotide& cn) {
     char new_symbol = Symbols[cn.symbol];
-    return Nucleotide{ new_symbol,
+    return Nucleotide{ (new_symbol),
                        cn.position,
                        cn.chromosome_num,
                        cn.gene_num,
